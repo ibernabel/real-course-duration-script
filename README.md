@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HTQGZ1DBP1F277K7MH7WQRG3
-  version: v3
----
-
 ### Code snippet to know the actual course duration of Platzi's course.
 
 ##### Warning: You must have an active account and have access to view all classes in the course in order to use this tool.
